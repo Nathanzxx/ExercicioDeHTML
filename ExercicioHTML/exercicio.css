@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Romanesco&display=swap');
+
+body {
+    background-color: silver;
+}
+
+nav a {
+    padding: 290px;
+    text-decoration: none;
+    text-align: center;
+}
+
+h1 {
+    border: 2px solid black;
+    background-color: grey;
+    text-align: center;
+}
+
+article {
+    margin: 15px;
+    padding: auto;
+}
+
+h2 {
+    padding: 10px;
+    border: 2px solid black;
+    background-color: grey;
+    width: 70px;
+}
+
+.main {
+    border: 1px solid black;
+}
+
+.p1 {
+    font-family: "Romanesco", cursive;
+    font-size: 44px;
+}
+
+.p2 {
+    border: 2px solid black;
+    background-color: grey;
+    margin: 10px;
+    padding: 10px;
+    font-size: 25px;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
